@@ -1,0 +1,137 @@
+"D:\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\szyme\CLionProjects\untitled2 -B C:\Users\szyme\CLionProjects\untitled2\cmake-build-debug
+CMake Error at D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:859 (file):
+  file STRINGS file
+  "C:/Users/szyme/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe"
+  cannot be read.
+Call Stack (most recent call first):
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:13 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:965 (file):
+  file failed to open for reading (Invalid argument):
+
+    C:/Users/szyme/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe
+Call Stack (most recent call first):
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:13 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:968 (string):
+  string begin index: 1 is out of range 0 - 0
+Call Stack (most recent call first):
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:13 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:976 (math):
+  math cannot parse the expression: " * 16 + ": syntax error, unexpected
+  exp_TIMES (2).
+Call Stack (most recent call first):
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:13 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:978 (file):
+  file failed to open for reading (Invalid argument):
+
+    C:/Users/szyme/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe
+Call Stack (most recent call first):
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:13 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:1020 (file):
+  file failed to open for reading (Invalid argument):
+
+    C:/Users/szyme/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe
+Call Stack (most recent call first):
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:13 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+-- The C compiler identification is GNU 13.1.0
+CMake Error at D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:859 (file):
+  file STRINGS file
+  "C:/Users/szyme/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe"
+  cannot be read.
+Call Stack (most recent call first):
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:13 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:965 (file):
+  file failed to open for reading (Invalid argument):
+
+    C:/Users/szyme/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe
+Call Stack (most recent call first):
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:13 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:968 (string):
+  string begin index: 1 is out of range 0 - 0
+Call Stack (most recent call first):
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:13 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:976 (math):
+  math cannot parse the expression: " * 16 + ": syntax error, unexpected
+  exp_TIMES (2).
+Call Stack (most recent call first):
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:13 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:978 (file):
+  file failed to open for reading (Invalid argument):
+
+    C:/Users/szyme/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe
+Call Stack (most recent call first):
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:13 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  D:/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: D:/CLion 2023.2.2/bin/mingw/bin/gcc.exe
+-- Check for working C compiler: D:/CLion 2023.2.2/bin/mingw/bin/gcc.exe - works
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - failed
+-- Check for working CXX compiler: D:/CLion 2023.2.2/bin/mingw/bin/g++.exe
+-- Check for working CXX compiler: D:/CLion 2023.2.2/bin/mingw/bin/g++.exe - works
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring incomplete, errors occurred!
+
+CMake Error:
+  ---------------------------------------------------------------------------------------------------------------
+  Antivirus software might have incorrectly identified files generated by CMake as malicious.
+  To workaround this problem, please exclude the project dir and 'D:\CLion 2023.2.2\bin\mingw' from the scanning.
+  ---------------------------------------------------------------------------------------------------------------
